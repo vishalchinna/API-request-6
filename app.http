@@ -1,0 +1,25 @@
+http://localhost:3000/states
+
+######
+
+http://localhost:3000/states/3
+
+####
+
+http://localhost:3000/districts
+Content-Type: application/json
+
+###
+
+http://localhost:3000/districts/322
+
+###
+http://localhost:3000/districts/322
+Content-Type: application/json
+###
+
+http://localhost:3000/states/17/stats/
+
+###
+
+http://localhost:3000/districts/322/details/
